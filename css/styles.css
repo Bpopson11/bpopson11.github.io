@@ -7,3 +7,7 @@ img.ofMe {
   height: 400px;
   width: auto;
 }
+
+.aboutMe#abovePic {
+  margin-bottom: 10px;
+}
