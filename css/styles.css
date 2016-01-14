@@ -1,6 +1,7 @@
 body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 16px
+  font-size: 16px;
+  background-color: #f2f2f2;
 }
 
 img.ofMe {
@@ -9,5 +10,22 @@ img.ofMe {
 }
 
 .aboutMe#abovePic {
-  margin-bottom: 10px;
+  padding-bottom: 30px;
+}
+
+.title {
+  color: #4d0080;
+}
+
+.contact {
+  color: #6b00b3;
+}
+
+.fave {
+  font-size: 20px;
+}
+
+.projects {
+  font-size: 18px;
+  color: #4d0080;
 }
