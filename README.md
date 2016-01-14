@@ -5,34 +5,21 @@ CSS styled 'about me' site, 01.14.16
 By Brianna Popson
   Other project contributions from Gracie Lundell and Afton Downey.
 
-This website was made to put into practice basic HTML and CSS principles, as well as serve as a landing page with relevent information.
+This website was made to put into practice basic HTML and CSS principles, as well as serve as a landing page with relevent information. The page includes basic information about myself, with a picture of myself and links to projects I have worked on using HTML and CSS.
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+Setup/Installation Requirements
 
-## Setup/Installation Requirements
+* Please fork this respository
+* Clone and downlaod this repository
+* Access files via Atom to make changes and view.
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+Technologies Used
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+HTML
+CSS
+BOOSTRAP
+GIT
 
-## Known Bugs
+License
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
-
-## Support and contact details
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-
-## Technologies Used
-
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
-
-### License
-
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-
-Copyright (c) 2015 **_{List of contributors or company name}_**
+Copyright (c) 2015 Brianna Popson
